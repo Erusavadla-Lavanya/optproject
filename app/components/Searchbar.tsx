@@ -25,7 +25,7 @@ const SearchBar: FC = () => {
     <div
       className="w-320 h-150 bg-cover bg-center bg-no-repeat"
       style={{
-        backgroundImage: "url('/image/pexels-divinetechygirl-1181352.jpg')",
+        backgroundImage: "url('/image/students.jpg')",
       }}
     >
       <div className="p-4 h-full flex items-center justify-center">
